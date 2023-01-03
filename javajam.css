@@ -18,7 +18,7 @@ main h2, main h3, main h4, main p, main div, main ul, main dl {
 }
 
 body {
-    background-image: url(Images/background.gif);
+    background-image: url(background.gif);
     background-color: #fcebb6;
     font-family: Verdana, Arial, sans-serif;
     color: #221811;
@@ -27,7 +27,7 @@ body {
 header {
     background-color: #D2B48C;
     height: 150px;
-    background-image: url(Images/javajamlogo.jpg);
+    background-image: url(javajamlogo.jpg);
     background-repeat: no-repeat;
 }
 
@@ -107,14 +107,14 @@ img {
 }
 
 #heromugs {
-    background-image: url(Images/heromugs.jpg);
+    background-image: url(heromugs.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 250px;
 }
 
 #heroguitar {
-    background-image: url(Images/heroguitar.jpg);
+    background-image: url(heroguitar.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 250px;
@@ -172,7 +172,7 @@ input,textarea{
 }
 
 #herojobs{
-    background-image: url(Images/herojobs.jpg);
+    background-image: url(herojobs.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 250px;
